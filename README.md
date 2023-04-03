@@ -1254,7 +1254,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/papireddy903/">
                     <img src="https://avatars.githubusercontent.com/u/97383201?v=4" width="100px;" alt="Papireddy"/>
-                    <br />
+                    <br/>
                     <sub><b>Papireddy E </b></sub>
                 </a>
             </td>
